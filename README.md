@@ -42,19 +42,19 @@ python main.py --source /var/log/application --dest /mnt/archives/logs --retenti
 
 # Sur Windows, avec filtrage WARN
 python main.py --source C:\logs\app --niveau WARN --dest D:\backups --retention 60
-```
+
 
 ---
 
 ## Format attendu des fichiers logs
 
 Chaque ligne doit suivre ce format :
-```
+
 YYYY-MM-DD HH:MM:SS NIVEAU Message
-```
+
 
 Exemple :
-```
+
 2024-01-15 10:30:15 ERROR Database connection failed
 2024-01-15 10:31:20 WARN High memory usage detected
 2024-01-15 10:32:05 INFO User login successful
@@ -82,13 +82,13 @@ Le 1er de chaque mois : 0 0 1 * *
 
 Organisation de l'équipe
 Le projet a été développé en équipe avec une répartition claire des rôles, chaque membre étant responsable d'un module précis.
-Étudiant A — Lead / Architecte
+LOVI Jae-San — Lead / Architecte
 Responsable de main.py. Il gère le point d'entrée du programme, l'orchestration générale et s'assure de la cohérence des chemins avec le module os.path. C'est lui qui garantit que les différents modules communiquent correctement entre eux.
-Étudiant B — Analyste
+HOUNDENOU Conceptia— Analyste
 Responsable de analyser.py. Il implémente toute la logique de parsing des fichiers logs : lecture ligne par ligne, détection des niveaux de criticité et extraction des erreurs les plus fréquentes.
-Étudiant C — Data Manager
+TOHOUEGNON Holali— Data Manager
 Responsable de rapport.py. Il s'occupe de la mise en forme des résultats d'analyse en JSON, en veillant à ce que la structure du rapport soit claire, complète et exploitable.
-Étudiant D — SysAdmin
+MASSENON Alex — SysAdmin
 Responsable de archiver.py. Il gère la compression des logs avec tarfile, le nettoyage des anciens fichiers selon la politique de rétention et la surveillance de l'espace disque utilisé.
-Étudiant E — QA / Documentation
+SEGNON Ashley — QA / Documentation
 Responsable de la qualité et de la documentation. Il prépare les fichiers de tests dans logs_test/, rédige le README et configure la ligne Cron pour la planification automatique hebdomadaire.
