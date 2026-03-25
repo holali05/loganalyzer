@@ -1,0 +1,5 @@
+2024-01-15 11:00:00 INFO Application started
+2024-01-15 11:05:15 ERROR Network timeout occurred
+2024-01-15 11:10:30 WARN Configuration file not found
+2024-01-15 11:15:45 INFO Processing batch job
+2024-01-15 11:20:00 ERROR Database query failed
