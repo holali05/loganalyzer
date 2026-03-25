@@ -1,0 +1,20 @@
+2024-04-01 08:00:01 INFO Démarrage du service d'authentification
+2024-04-01 08:05:22 WARN Utilisation mémoire à 75%
+2024-04-01 08:10:35 ERROR Impossible de se connecter à la base de données
+2024-04-01 08:15:12 INFO Vérification des mises à jour terminée
+2024-04-01 08:20:45 ERROR Échec de l'envoi de l'email
+2024-04-01 08:25:30 INFO Tâche de sauvegarde lancée
+2024-04-01 08:30:10 WARN CPU à 85%
+2024-04-01 08:35:50 INFO Nouvelle session utilisateur ouverte
+2024-04-01 08:40:15 ERROR Erreur de lecture du fichier de configuration
+2024-04-01 08:45:05 INFO Service de notifications démarré
+2024-04-01 08:50:22 WARN Temps de réponse API élevé
+2024-04-01 08:55:30 INFO Rapport journalier généré
+2024-04-01 09:00:01 ERROR Connexion LDAP échouée
+2024-04-01 09:05:12 INFO Nettoyage des fichiers temporaires
+2024-04-01 09:10:45 WARN Disque à 90% utilisé
+2024-04-01 09:15:30 INFO Nouvelle tâche planifiée
+2024-04-01 09:20:50 ERROR Échec de l'accès réseau
+2024-04-01 09:25:10 INFO Processus terminé avec succès
+2024-04-01 09:30:35 WARN Latence élevée détectée
+2024-04-01 09:35:00 INFO Session utilisateur fermée

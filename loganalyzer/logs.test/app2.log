@@ -1,0 +1,20 @@
+2024-04-02 07:00:01 INFO Initialisation du serveur
+2024-04-02 07:05:22 WARN Mémoire tampon presque pleine
+2024-04-02 07:10:35 ERROR Erreur lors de l'écriture dans la base
+2024-04-02 07:15:12 INFO Vérification des logs terminée
+2024-04-02 07:20:45 ERROR Échec du téléchargement du fichier
+2024-04-02 07:25:30 INFO Service de backup activé
+2024-04-02 07:30:10 WARN Charge CPU à 80%
+2024-04-02 07:35:50 INFO Nouvelle session créée
+2024-04-02 07:40:15 ERROR Timeout de la requête API
+2024-04-02 07:45:05 INFO Rapport envoyé au responsable
+2024-04-02 07:50:22 WARN Temps d'accès au disque long
+2024-04-02 07:55:30 INFO Nettoyage terminé
+2024-04-02 08:00:01 ERROR Échec de la synchronisation LDAP
+2024-04-02 08:05:12 INFO Processus planifié lancé
+2024-04-02 08:10:45 WARN Mémoire virtuelle élevée
+2024-04-02 08:15:30 INFO Tâches planifiées terminées
+2024-04-02 08:20:50 ERROR Problème lors de l'ouverture du fichier
+2024-04-02 08:25:10 INFO Système stable
+2024-04-02 08:30:35 WARN Latence du réseau détectée
+2024-04-02 08:35:00 INFO Utilisateur déconnecté

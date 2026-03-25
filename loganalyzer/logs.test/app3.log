@@ -1,0 +1,20 @@
+2024-04-03 06:00:01 INFO Démarrage du service web
+2024-04-03 06:05:22 WARN Utilisation CPU 75%
+2024-04-03 06:10:35 ERROR Erreur de connexion au serveur SMTP
+2024-04-03 06:15:12 INFO Vérification des permissions terminée
+2024-04-03 06:20:45 ERROR Échec de l'envoi de notification
+2024-04-03 06:25:30 INFO Tâche planifiée de backup démarrée
+2024-04-03 06:30:10 WARN Mémoire RAM élevée
+2024-04-03 06:35:50 INFO Session utilisateur active
+2024-04-03 06:40:15 ERROR Timeout sur la base de données
+2024-04-03 06:45:05 INFO Rapport quotidien généré
+2024-04-03 06:50:22 WARN Latence sur le réseau détectée
+2024-04-03 06:55:30 INFO Processus terminé correctement
+2024-04-03 07:00:01 ERROR Échec de connexion LDAP
+2024-04-03 07:05:12 INFO Nettoyage des logs terminé
+2024-04-03 07:10:45 WARN Espace disque faible
+2024-04-03 07:15:30 INFO Nouvelle tâche planifiée
+2024-04-03 07:20:50 ERROR Impossible d'accéder au fichier de configuration
+2024-04-03 07:25:10 INFO Service web stable
+2024-04-03 07:30:35 WARN Temps de réponse API élevé
+2024-04-03 07:35:00 INFO Fermeture des sessions utilisateur
