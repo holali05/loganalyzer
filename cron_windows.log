@@ -1,0 +1,40 @@
+[INFO] Source : C:\loganalyzer\logs_test
+[INFO] Niveau : ALL
+[INFO] Destination archive : C:\loganalyzer\backups
+[INFO] Rétention : 30 jours
+[INFO] Analyse en cours...
+[INFO] Génération du rapport...
+[SUCCESS] Rapport généré : C:\loganalyzer\rapports\rapport_2026-03-25.json
+[INFO] Archivage en cours...
+[SUCCESS] Archivage terminé
+[ERROR] 'charmap' codec can't encode character '\U0001f389' in position 36: character maps to <undefined>
+[INFO] Source : C:\loganalyzer\logs_test
+[INFO] Niveau : ALL
+[INFO] Destination archive : C:\loganalyzer\backups
+[INFO] Rétention : 30 jours
+[INFO] Analyse en cours...
+[INFO] Génération du rapport...
+[SUCCESS] Rapport généré : C:\loganalyzer\rapports\rapport_2026-03-25.json
+[INFO] Archivage en cours...
+[SUCCESS] Archivage terminé
+[DONE] Pipeline exécuté avec succès
+[INFO] Source : C:\loganalyzer\logs_test
+[INFO] Niveau : ALL
+[INFO] Destination archive : C:\loganalyzer\backups
+[INFO] Rétention : 30 jours
+[INFO] Analyse en cours...
+[INFO] Génération du rapport...
+[SUCCESS] Rapport généré : C:\loganalyzer\rapports\rapport_2026-03-25.json
+[INFO] Archivage en cours...
+[SUCCESS] Archivage terminé
+[DONE] Pipeline exécuté avec succès
+[INFO] Source : C:\loganalyzer\logs_test
+[INFO] Niveau : ALL
+[INFO] Destination archive : C:\loganalyzer\backups
+[INFO] Rétention : 30 jours
+[INFO] Analyse en cours...
+[INFO] Génération du rapport...
+[SUCCESS] Rapport généré : C:\loganalyzer\rapports\rapport_2026-03-25.json
+[INFO] Archivage en cours...
+[SUCCESS] Archivage terminé
+[DONE] Pipeline exécuté avec succès

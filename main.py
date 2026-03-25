@@ -106,7 +106,7 @@ def main():
         )
 
         print("[SUCCESS] Archivage terminé")
-        print("[DONE] Pipeline exécuté avec succès 🎉")
+        print("[DONE] Pipeline exécuté avec succès")
 
     except Exception as e:
         print(f"[ERROR] {e}")
